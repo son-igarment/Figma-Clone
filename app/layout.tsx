@@ -6,9 +6,9 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Room from "./Room";
 
 export const metadata = {
-  title: "Figma Clone",
+  title: "Figma Clone by Phạm Lê Ngọc Sơn",
   description:
-    "A minimalist Figma clone using fabric.js and Liveblocks for realtime collaboration",
+    "A collaborative design tool created by Phạm Lê Ngọc Sơn using fabric.js and Liveblocks for realtime collaboration",
 };
 
 const workSans = Work_Sans({

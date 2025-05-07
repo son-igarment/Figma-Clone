@@ -1,7 +1,8 @@
 {
-  "name": "tigma",
+  "name": "figma-clone-son",
   "version": "0.1.0",
   "private": true,
+  "author": "Phạm Lê Ngọc Sơn",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
